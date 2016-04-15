@@ -42,6 +42,17 @@
     <Compile Include="Creatures\Character.cs" />
     <Compile Include="Classes\CharacterClass.cs" />
     <Compile Include="Classes\ClassFeature.cs" />
+    <Compile Include="KingdomBuilding\Building.cs" />
+    <Compile Include="KingdomBuilding\CivilizationEvent.cs" />
+    <Compile Include="KingdomBuilding\District.cs" />
+    <Compile Include="KingdomBuilding\Civilization.cs" />
+    <Compile Include="KingdomBuilding\CivilizationAlignment.cs" />
+    <Compile Include="KingdomBuilding\CivilizationOfficial.cs" />
+    <Compile Include="KingdomBuilding\CivilizationGovRole.cs" />
+    <Compile Include="KingdomBuilding\Lot.cs" />
+    <Compile Include="KingdomBuilding\MapHex.cs" />
+    <Compile Include="KingdomBuilding\Settlement.cs" />
+    <Compile Include="KingdomBuilding\TerrainType.cs" />
     <Compile Include="Lore\CharacterLore.cs" />
     <Compile Include="Lore\CreatureLore.cs" />
     <Compile Include="Lore\ItemLore.cs" />
